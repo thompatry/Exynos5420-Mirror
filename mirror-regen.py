@@ -16,7 +16,7 @@ except KeyError:
     print("Please set the GHUSER and GHTOKEN environment variables")
     exit(1)
 
-orgName = "LineageOS"
+orgName = "Exynos5420"
 org = Github(u, p).get_user(orgName)
 
 file = open("default.xml", "w")
