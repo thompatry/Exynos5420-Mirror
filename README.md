@@ -2,7 +2,7 @@
 
 ## Using the mirror to sync
 
-Usage: `repo init -u https://github.com/Exynos5420/mirror --mirror`
+Usage: `repo init -u https://github.com/thompatry/Exynos5420-Mirror --mirror`
 
 In your roomservice file, you can point to /path/to/mirror/Exynos5420/ and sync normally.
 
