@@ -6,7 +6,7 @@
 
   <default revision="master"
            remote="github"
-           sync-j="4" />
+           sync-j="2" />
 
   <project name="exynos5420/android_build_make" />
   <project name="exynos5420/android_device_samsung_chagalllte" />
